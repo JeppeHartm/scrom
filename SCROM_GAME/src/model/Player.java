@@ -1,4 +1,4 @@
-package scrom.model;
+package model;
 
 public class Player {
 
